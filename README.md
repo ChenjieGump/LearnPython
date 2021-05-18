@@ -16,5 +16,5 @@
 
 解决问题的样例见文件夹2021-5-18中[test_file](/date2021-5-18/test_file.py)
 为同时展示多个figure，而不是关闭其中一个以后再出现另一个，需要有如下操作
-> >>>plt.show(block = False)
-> >>>plt.show() 
+> \>>>plt.show(block = False)
+> \>>>plt.show() 
