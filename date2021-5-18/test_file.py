@@ -47,6 +47,6 @@ plt.figure(3)
 plt.plot(x,yy_3)
 plt.plot(x,y3)
 
-plt.show(block = False)
-plt.show()
+plt.show(block = False) # solve the problem that cant show three plots at the same time
+plt.show() 
 
