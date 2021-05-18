@@ -14,4 +14,4 @@
 解决了“使用Matplotlib以非阻塞方式绘图”的问题
 > [使用Matplotlib以非阻塞方式绘图](http://www.imooc.com/wenda/detail/590321)
 
-解决问题的样例见文件夹2021-5-18
+解决问题的样例见文件夹2021-5-18中[test_file](/date2021-5-18/test_file.py)
