@@ -5,4 +5,5 @@
 第一节课程，介绍了pycharm编辑器，介绍了jupytor notebook文件格式。介绍了anaconda科学计算环境，numpy包，matplot包，pandas包等
 完成了使用VScode进行文件夹内的环境配置
 > [环境配置](关于环境配置.md "关于环境配置")
+
 了解jupytor notebook文件格式的编辑
