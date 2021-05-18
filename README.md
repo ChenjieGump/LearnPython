@@ -8,3 +8,10 @@
 
 了解jupytor notebook文件格式的编辑，尤其是使用google colab在线进行简单的数据处理
 > [google colab](https://colab.research.google.com/notebooks/ "google colab")
+
+* ## 2021/5/18
+第二节课程，简单的数据处理，matplot.pyplot包的简单实用
+解决了“使用Matplotlib以非阻塞方式绘图”的问题
+> [使用Matplotlib以非阻塞方式绘图](http://www.imooc.com/wenda/detail/590321)
+
+解决问题的样例见文件夹2021-5-18
