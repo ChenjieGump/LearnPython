@@ -6,4 +6,5 @@
 完成了使用VScode进行文件夹内的环境配置
 > [环境配置](关于环境配置.md "关于环境配置")
 
-了解jupytor notebook文件格式的编辑
+了解jupytor notebook文件格式的编辑，尤其是使用google colab在线进行简单的数据处理
+> [google colab](https://colab.research.google.com/notebooks/ "google colab")
