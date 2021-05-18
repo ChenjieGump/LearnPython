@@ -18,3 +18,5 @@
 为同时展示多个figure，而不是关闭其中一个以后再出现另一个，需要有如下操作
 > \>>>plt.show(block = False) \
 > \>>>plt.show() 
+另外，参看Matplot document API中关于plot.show的部分，也可以使用plt.ion实现相同的效果
+> [matplotlib.pyplot.show](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.show.html#examples-using-matplotlib-pyplot-show)
